@@ -1,0 +1,7 @@
+cn\fujizx\SsmFramework\dao\AppointmentDaoTest.class
+cn\fujizx\SsmFramework\dao\BookDaoTest.class
+cn\fujizx\SsmFramework\domain\Appointment.class
+cn\fujizx\SsmFramework\domain\Book.class
+cn\fujizx\SsmFramework\BaseTest.class
+cn\fujizx\SsmFramework\dao\AppointmentDao.class
+cn\fujizx\SsmFramework\dao\BookDao.class
