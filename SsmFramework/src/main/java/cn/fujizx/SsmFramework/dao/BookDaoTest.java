@@ -19,7 +19,7 @@ public class BookDaoTest extends BaseTest {
 	public void testQueryById() throws Exception {
 		long bookId = 1000;
 		Book book = bookDao.queryById(bookId);
-		System.out.println(book);
+		System.out.println(book.getBookId());
 	}
 
 	@Test
