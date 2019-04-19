@@ -9,3 +9,4 @@
 #### 1.[手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
 ##### 原作者的[git地址](https://github.com/liyifeng1994/ssm)
 #### 2.[Maven+Spring+MySql 登陆实例](https://www.cnblogs.com/adamJin/p/6930122.html)
+#### 3.增加了一些[jsp页面](https://github.com/hisen-yuan/IDEAPractice/tree/master/ssm_study/src/main/webapp)
